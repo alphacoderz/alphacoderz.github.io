@@ -1,0 +1,6 @@
+# all markdowns
+*.md
+*.mdx
+
+# others
+*.d.ts
